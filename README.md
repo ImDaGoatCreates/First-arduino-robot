@@ -11,7 +11,8 @@ An assortment of male-to-male and male-to-female jumper wires\
 An Arduino-compatible ELEGOO UNO R3\
 A 9-volt battery\
 A 9-volt battery connector\
-A 2-prong screw termial
+A 2-prong screw termial\
+A PS2 joystick
 
 ## What else I used
 
@@ -24,3 +25,8 @@ https://github.com/maker101io/Multiple-Servo-Motor-Control-with-Joystick-and-Ard
 To build the servo assembly, I also used maker101io's tutorial on YouTube at:
 
 https://www.youtube.com/watch?v=kA_pbMR6jVs
+
+## Pictures
+
+![Picure of a robot arm controlled by a joystick with a human holding the joystick and wires in the background.](https://ibb.co/hR5j1xTg)
+![Picture of a microcontroller, breadboard, and wires for a robot arm.](https://ibb.co/rKxCK7PC)

@@ -4,13 +4,13 @@ This is my first Arduino robot. I made this in 2024 when I was first getting int
 
 ## For the project, I used
 
-2 SG90 micro servos/
-5 pieces of normal cardboard
-Hot glue
-An assortment of male-to-male and male-to-female jumper wires
-An Arduino-compatible ELEGOO UNO R3
-A 9-volt battery
-A 9-volt battery connector
+2 SG90 micro servos\
+5 pieces of normal cardboard\
+Hot glue\
+An assortment of male-to-male and male-to-female jumper wires\
+An Arduino-compatible ELEGOO UNO R3\
+A 9-volt battery\
+A 9-volt battery connector\
 A 2-prong screw termial
 
 ## What else I used
